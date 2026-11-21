@@ -9,4 +9,6 @@ setInterval (updateClock, 1000);
     color: white;
     margin-left: 10px;
     font-family: monospace;
+   
+
 }
