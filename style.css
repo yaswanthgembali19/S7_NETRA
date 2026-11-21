@@ -79,3 +79,9 @@ nav a:hover{
     background: #39d6a0;
     border-radius: 50%;
 }
+.online-dot{
+    width: 9px;
+    height: 9px;
+    background: #39d6a0;
+    border-radius: 50%;
+}
