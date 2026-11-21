@@ -5,10 +5,3 @@ if(clock)
 }
 updateClock();
 setInterval (updateClock, 1000);
-#clock{
-    color: white;
-    margin-left: 10px;
-    font-family: monospace;
-   
-
-}
